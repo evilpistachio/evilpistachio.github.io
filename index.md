@@ -1,4 +1,4 @@
-***Welcome to my technology blog!***
+## ***Welcome to my technology blog!***
 
 **Where I share my journey and discoveries in the fascinating realms of software, cybersecurity, and cloud computing.**
 

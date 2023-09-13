@@ -1,6 +1,6 @@
 ## ***Welcome to my technology blog!***
 
-**Where I share my journey and discoveries in the fascinating realms of software, cybersecurity, and cloud computing.**
+**This is my daily learning journal in the realms of software, cybersecurity, and cloud computing.**
 
 Here you will find daily posts about what I'm currently studying, 
 serving as a digital notebook while providing practical knowledge about these topics. 
